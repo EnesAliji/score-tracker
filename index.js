@@ -50,3 +50,11 @@ function threeAway(){
     awayScore.textContent = awayResult;
 
 }
+
+function reset(){
+    homeScore.textContent = 0;
+    awayScore.textContent = 0;
+
+    result = 0;
+    awayResult = 0;
+}
