@@ -1,6 +1,13 @@
 body {
     text-align: center;
+    background-color: #F0FFFF ;
 }
+
+#reset-btn{
+    margin: 10px;
+}
+
+
 
 
 
